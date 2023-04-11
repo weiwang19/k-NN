@@ -1,5 +1,5 @@
 
-#Mac OS build steps 
+# Mac OS build steps 
 
 ## update cmake 
 pip install cmake==3.17.2
