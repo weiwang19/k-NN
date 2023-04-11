@@ -31,8 +31,10 @@ cmake .
 
 make opensearchknn_faiss
 
-##Update Faiss version 
+## Update Faiss version 
+
 Example: upgrade to 1.7.3 release branch
+
 git config -f .gitmodules submodule.jni/external/faiss.branch 1.7.3_release
 
 git submodule sync
