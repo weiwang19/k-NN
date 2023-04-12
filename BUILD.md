@@ -31,6 +31,8 @@ cmake .
 
 make opensearchknn_faiss
 
+built lids libopensearchknn_common.jnilib	libopensearchknn_faiss.jnilib are under jni/release
+
 ## Update Faiss version 
 
 Example: upgrade to 1.7.3 release branch
